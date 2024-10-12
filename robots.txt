@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nevuraqarulo.pages.dev/sitemap.xml
